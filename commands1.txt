@@ -1,0 +1,14 @@
+git status
+git log
+git branch
+git diff
+git clone repocitory url
+git commit -m
+git checkout branchname
+git push origin branchname
+git delete origin branch name
+git merge
+git pull
+git config --global user.name ""
+git config --global user.email
+

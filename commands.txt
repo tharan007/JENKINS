@@ -1,0 +1,9 @@
+cd
+pwd
+ls
+ls-lart
+cat
+mkdir
+touch
+rmdir
+sudu su
